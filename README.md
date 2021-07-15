@@ -171,7 +171,7 @@ This is the Plant seeds page. User can create surveys. User need to pick what ty
 
 This is the Get seeds page. User gets their survey ( the one user picked from flower page).
 
-![GetSeeds](Pictures/GetSeeds.png) 
+![GetSeeds](Pictures/GetSeedss.png) 
 
 
 User can learn about new cultures. 
