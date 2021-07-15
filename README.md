@@ -142,7 +142,7 @@ aking a connection.
 
   
 
-The image assets are in the (Pictures) folder - icon, upload, blender. 
+The image assets are in the ![Pictures](Pictures) folder - icon, upload, blender. 
 
   
 
