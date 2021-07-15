@@ -146,7 +146,7 @@ The image assets are in the ![Pictures](Pictures) folder - icon, upload, blender
 
   
 
-User lands this explore page. User can see what people posts (survey). User have a history board. User can create cupcakes and see which ingredients left for a cupcake.
+User lands this explore page. User can see survey results and User can see what other users answered for that survey. User have a history board. User can create cupcakes and see which ingredients left for a cupcake.
 
 ![Explore Page](Pictures/ExplorePage.png) 
 
