@@ -148,7 +148,7 @@ The image assets are in the [YourShare-screens](YourShare-screens) folder - icon
 
 User lands this explore page. They can see what people posts. They have a history board. They can create cupcakes and see which ingredients left for a cupcake.
 
-![Explore Page](YourShare-screens/YS_account.png) 
+![Explore Page](Pictures/ExplorePage.png) 
 
 
   
