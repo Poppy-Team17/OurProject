@@ -180,7 +180,7 @@ User can learn about new cultures.
 
   
 
-This screen describes the app navigation, how the screens of the app are connected. The central screen is the app landing page. Other screens lead back here. 
+This screen describes the app navigation, how the screens of the app are connected. 
 
 ![navigation](Pictures/navigation.png) 
 
