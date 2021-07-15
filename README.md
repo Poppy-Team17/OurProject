@@ -1,18 +1,4 @@
-#SPEC 
-
- 
-
-This is a minimal viable sample spec* 
-
-Dogukan 
-
-Samerawit 
-
-Ayo 
-
-Aditi 
-
-Juan 
+#Spec
 
 # Poppy 
 
