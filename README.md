@@ -146,43 +146,43 @@ The image assets are in the ![Pictures](Pictures) folder - icon, upload, blender
 
   
 
-User lands this explore page. They can see what people posts. They have a history board. They can create cupcakes and see which ingredients left for a cupcake.
+User lands this explore page. User can see what people posts (survey). User have a history board. User can create cupcakes and see which ingredients left for a cupcake.
 
 ![Explore Page](Pictures/ExplorePage.png) 
 
 
   
 
-Profile page has user's avatar, level, xp and amount of cupcakes they receives. They also see their ingredients for cupcake. They can see infos
+Profile page has user's avatar, level, xp and amount of cupcakes they receives. User also see their ingredients for cupcake. User can see their surveys.
 
-![Profile Page](YourShare-screens/YS_additem.png) 
+![Profile Page](Pictures/Profile.png) 
 
   
 This is the Flower page. User can see survey's and pick one of them.
 
-![Flower Page](YourShare-screens/YS_BorrowItem.png) 
+![Flower Page](Pictures/FlowerPage.png) 
 
   
 
-This is the Plant seeds page. User can create surveys. They need to pick what type of survey they are creating. 
+This is the Plant seeds page. User can create surveys. User need to pick what type of survey User is creating. 
 
-![Plant Page](YourShare-screens/YS_managecommunity.png) 
-
-
-This is the Get seeds page. User gets their survey ( the one they picked from flower page).
-
-![Get Seeds](YourShare-screens/YS_managecommunity.png) 
+![Plant Page](Pictures/PlantPage.png) 
 
 
-User educated,.
+This is the Get seeds page. User gets their survey ( the one user picked from flower page).
 
-![Educate Page](YourShare-screens/YS_managecommunity.png) 
+![Get Seeds](Pictures/GetSeeds.png) 
+
+
+User can learn about new cultures. 
+
+![Educate Page](Pictures/EducatePage.png) 
 
   
 
 This screen describes the app navigation, how the screens of the app are connected. The central screen is the app landing page. Other screens lead back here. 
 
-![Navigation](YourShare-screens/YS_navigation.png) 
+![Navigation](Pictures/Navigation.png) 
 
   
 
@@ -220,9 +220,9 @@ Competitors of Poppy today include:
 
   
 
-*Omegle , Instagram and other social media apps. 
+* Omegle , Instagram and other social media apps. 
 
-*Most social media apps allow you to connect more people and allows you to spend time on it.  
+* Most social media apps allow you to connect more people and allows you to spend time on it.  
 
 From the summary of the competitive analysis, the primary strength, weaknesses, opportunities, and threats of Poppy are: 
 
@@ -232,7 +232,7 @@ Strengths:
 
   
 
-*Can work anywhere. 
+* Can work anywhere. 
 
 * It is designed to help foster genuine connections that are tailored to help you see your world from a different lens. 
 
