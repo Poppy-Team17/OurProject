@@ -62,7 +62,7 @@ John doesnâ€™t feel connected to his friends on other social media platform, heâ
 
 * Educate the users about different backgrounds and perspectives. 
 
-*Learn more about the world 
+* Learn more about the world 
 
 * Motivate people to learn about different points of view by making learning fun through gamification  . 
 
