@@ -191,7 +191,7 @@ This screen describes the app navigation, how the screens of the app are connect
   
 
 |  User Story  | Assigned to  | 
-|---|---|---| 
+|---|---| 
 | A user can pick what survey they want to answer from a list  | | 
 | A user can get questions from the survey they picked   | | 
 | A user can see their xp/ level /ingredients and profile. (profile)  | | 
