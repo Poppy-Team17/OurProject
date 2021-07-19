@@ -229,7 +229,7 @@ Weaknesses:
 
   
 
-* Someone must create surveys in order to be effective. 
+* User must create surveys in order to be effective. 
 
 * Won’t have many features. 
 
