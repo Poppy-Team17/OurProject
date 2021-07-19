@@ -195,7 +195,7 @@ This screen describes the app navigation, how the screens of the app are connect
 |---|---|---| 
 
 
-| A user can create survey- limited  | | asd| 
+| A user can create survey- limited  | hello| | 
 
 | A user can pick what survey they want to answer from a list  | | | 
 
