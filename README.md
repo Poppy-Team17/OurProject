@@ -62,21 +62,13 @@ John doesnâ€™t feel connected to his friends on other social media platform, heâ
 
 * Educate the users about different backgrounds and perspectives. 
 
-* Learn more about the world 
+* Learn more about the world. 
 
-* Motivate people to learn about different points of view by making learning fun through gamification  . 
+* Motivate people to learn about different points of view by making learning fun through gamification. 
 
-* Allow people to make deeper connections with other  
-
-people. 
+* Allow people to make deeper connections with other people. 
 
  
-
-  
-
-aking a connection. 
-
-* 
 
  
 
@@ -196,7 +188,7 @@ This screen describes the app navigation, how the screens of the app are connect
 | A user can get questions from the survey they picked   | | 
 | A user can see their xp/ level /ingredients and profile. (profile)  | | 
 | A user can see the explore page.   | | 
-| A user can educate themselves ( Educate page   | | 
+| A user can educate themselves ( Educate page )   | | 
 | A user can create cupcakes in the (explore page)   | | 
 | A user can navigate to different pages through   | | 
 | ... | ... | 
