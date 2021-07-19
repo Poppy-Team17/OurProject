@@ -243,7 +243,7 @@ Opportunities:
 
 * Travelers will have a better idea of different communities and places to visit. 
 
-* College students have chance to learn more about cultures. 
+* College students will have a better chance of learning about other cultures.  
 
   
 
