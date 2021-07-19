@@ -241,7 +241,7 @@ Opportunities:
 
 * Adolescents to young adults are ready to learn and explore more about world 
 
-* Travelers will have better idea where to go and where to see. 
+* Travelers will have a better idea of different communities and places to visit. 
 
 * College students have chance to learn more about cultures. 
 
