@@ -116,7 +116,7 @@ John doesnâ€™t feel connected to his friends on other social media platform, heâ
 
 * A user can see leaderboard 
 
-*Algorithm to match the most likely responses 
+* Algorithm to match the most likely responses 
 
  
 
