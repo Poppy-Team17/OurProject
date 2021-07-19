@@ -134,7 +134,7 @@ John doesnâ€™t feel connected to his friends on other social media platform, heâ
 
   
 
-The image assets are in the ![Pictures](Pictures) folder - icon, upload, blender. 
+The image assets are in the [Pictures](Pictures) folder - icon, upload, blender. 
 
   
 
