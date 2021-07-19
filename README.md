@@ -191,9 +191,14 @@ This screen describes the app navigation, how the screens of the app are connect
   
 
 |  User Story | Engineering Description  | Assigned to  | 
-
 |---|---|---| 
-| A user can create survey- limited  | hi | hello | 
+| A user can pick what survey they want to answer from a list  | | | 
+| A user can get questions from the survey they picked  | | | 
+| A user can see their xp/ level /ingredients and profile. (profile)  | | | 
+| A user can see the explore page.  | | | 
+| A user can educate themselves ( Educate page  | | | 
+| A user can create cupcakes in the (explore page)  | | | 
+| A user can navigate to different pages through  | | | 
 | ... | ... | ... | 
 
   
