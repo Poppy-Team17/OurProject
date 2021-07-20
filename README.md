@@ -118,6 +118,7 @@ John doesnâ€™t feel connected to his friends on other social media platform, heâ
 
 * Algorithm to match the most likely responses 
 
+* Online rooms where user can get survey with other users.
  
 
   
