@@ -221,7 +221,11 @@ Strengths:
 
   
 
-* Can work anywhere. 
+* Can work anywhere.
+
+*  Learn about how people different than yoursellf live on a day to day basis
+
+* Helps feel a better part of your own community and promote pride for the different communities you are a part of by sharing about thme
 
 * It is designed to help foster genuine connections that are tailored to help you see your world from a different lens. 
 
