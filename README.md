@@ -207,11 +207,13 @@ Competitors of Poppy today include:
 
   
 
-* Omegle , Instagram and other social media apps. 
+* Omegle
+* Instagram
+* social media apps 
+* Most social media apps allow you to connect more people and allows you to spend time on it.
+  
 
-* Most social media apps allow you to connect more people and allows you to spend time on it.  
-
-From the summary of the competitive analysis, the primary strength, weaknesses, opportunities, and threats of Poppy are: 
+Poppy is different because of the way it is designed for users to spread ideas and share opinions that brings them together instead of further alienating us. Most social media is not made to foster connections that are more than surface level with complete strangers, Poppy looks to change that. From the summary of the competitive analysis, the primary strength, weaknesses, opportunities, and threats of Poppy are: 
 
   
 
